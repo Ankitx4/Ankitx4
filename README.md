@@ -19,7 +19,7 @@
 |---|---|---|
 | [Pizza Sales Dashboard](https://github.com/Ankitx4/Pizza-Sales-Report-Dashboard) | Business insight dashboard on pizza sales | SQL, Power BI |
 | [Skin Cancer Detection](https://github.com/Ankitx4/Skin-cancer-Detection) | ML model for cancer prediction | Python, Scikit-learn |
-| [Package Prediction](https://github.com/Ankitx4/Package-Prediction) | Salary prediction based on CGPA | Python, ML |
+| [Superstore Sales Dashboard](https://github.com/Ankitx4/-Superstore-Sales-Dashboard-) |Business insight dashboard | SQL, Power BI |
 
 ---
 
